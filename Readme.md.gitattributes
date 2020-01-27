@@ -1,0 +1,8 @@
+
+Proje visual studio 2019 sürümü ile gerçekleþtirilmiþtir.
+Form1.cs çalýþtýrýlabilir dosya kaynak kodu içeriyor.
+Form1.Designer.cs proje arayuzü.
+SHA2 Hash iþlemi için bir C# form uygulamasý
+using System.Security.Cryptography; kütüphanesi
+
+
